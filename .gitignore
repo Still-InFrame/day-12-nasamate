@@ -42,3 +42,8 @@ next-env.d.ts
 .env*.local
 .claude/settings.local.json
 CLAUDE.md
+
+# per-machine challenge tooling (identical across all apps; not part of this app)
+backup.sh
+deploy.sh
+publish.sh
