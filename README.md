@@ -1,5 +1,7 @@
 # Spaceship Earth
 
+**Live:** https://nasamate.100dayaichallenge.com
+
 A full-screen, interactive 3D globe showing our planet right now — live natural events, real satellite imagery, and a tappable world atlas, all from NASA and open data.
 
 Day 12 of a [100-day AI build challenge](https://www.100dayaichallenge.com/share/savion).
